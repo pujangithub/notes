@@ -1,0 +1,9 @@
+process of pushing a folder in a new repositary
+
+1. create a folder in vs code
+2. add some files in the folder
+3. git add file_name
+4. git inti
+5. git remote -v   	(to verify)
+6. git branch	   	(to see the branch)
+7. git branch -m main	(to change the branch from master to main)
